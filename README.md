@@ -1,7 +1,7 @@
 # 私の研究に興味を持ってくれた方へ
 - 修論を終えてから気づいたのですが，私の研究は「face swapping」という技術に関連しており，先行研究が多くある可能性があります．研究を引き継ぐことを考えている人は，注意してください．
 - 私のGitLabのページや修士論文を合わせて見てもらうとコードの理解度が上がるかもしれません．
-- https://dev.vcl.jp/d-omote
+- https://github.com/d-omote/workspace-main
 - https://tduvcl.sharepoint.com/:f:/s/GraduationThesis/Ep-WmPtJobBAiGdZTPNZP_ABuyxlrYX1AS_ZyhXGw0P3MQ?e=C0hm34
 
 
