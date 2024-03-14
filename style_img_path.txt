@@ -1,0 +1,6 @@
+./result/faceCropping/style/eyebrow_right.jpg
+./result/faceCropping/style/eye_right.jpg
+./result/faceCropping/style/eyebrow_left.jpg
+./result/faceCropping/style/eye_left.jpg
+./result/faceCropping/style/mouse.jpg
+./result/faceCropping/style/nose.jpg
